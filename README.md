@@ -29,9 +29,3 @@ Each book contains:
 | Turkish | `tr` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-tr.epub) |
 | Ukrainian | `uk` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-uk.epub) |
 | Vietnamese | `vi` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-vi.epub) |
-
-## Notes
-
-These EPUBs were built from the Kingdom Come: Deliverance Wiki codex pages and their official localization tables.
-
-The language order above is intentionally sorted by likely download demand, with English, French, and Czech first.
