@@ -11,21 +11,21 @@ Each book contains:
 
 ## Direct Downloads
 
-| Language | Code | Download |
-| --- | --- | --- |
-| English | `en` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-en.epub) |
-| French | `fr` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-fr.epub) |
-| Czech | `cs` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-cs.epub) |
-| German | `de` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-de.epub) |
-| Spanish | `es` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-es.epub) |
-| Polish | `pl` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-pl.epub) |
-| Russian | `ru` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-ru.epub) |
-| Italian | `it` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-it.epub) |
-| Portuguese | `pt` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-pt.epub) |
-| Japanese | `ja` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-ja.epub) |
-| Korean | `ko` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-ko.epub) |
-| Chinese, Simplified | `zh-hans` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-zh-hans.epub) |
-| Chinese, Traditional | `zh-hant` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-zh-hant.epub) |
-| Turkish | `tr` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-tr.epub) |
-| Ukrainian | `uk` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-uk.epub) |
-| Vietnamese | `vi` | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-vi.epub) |
+| Language | Download |
+| --- | --- |
+| English | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-en.epub) |
+| French | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-fr.epub) |
+| Czech | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-cs.epub) |
+| German | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-de.epub) |
+| Spanish | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-es.epub) |
+| Polish | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-pl.epub) |
+| Russian | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-ru.epub) |
+| Italian | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-it.epub) |
+| Portuguese | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-pt.epub) |
+| Japanese | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-ja.epub) |
+| Korean | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-ko.epub) |
+| Chinese, Simplified | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-zh-hans.epub) |
+| Chinese, Traditional | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-zh-hant.epub) |
+| Turkish | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-tr.epub) |
+| Ukrainian | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-uk.epub) |
+| Vietnamese | [Download EPUB](https://github.com/steel-flenser/kingdom-come-deliverance-codex/raw/refs/heads/main/kcd2-codex-vi.epub) |
