@@ -29,7 +29,7 @@ Each book includes a cover image, embedded article artwork, and internal links b
 
 ## Kingdom Come: Deliverance
 
-238 codex entries across all six in-game sections. The wiki has localized text for 149-150 entries per language; entries without localized text use the cleaned English article.
+238 codex entries across all six in-game sections, with the Kingdom Come: Deliverance cover art embedded as the EPUB cover. The wiki has localized text for 149-150 entries per language; entries without localized text use the cleaned English article.
 
 | Language | Download |
 | --- | --- |
