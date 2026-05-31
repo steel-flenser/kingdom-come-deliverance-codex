@@ -2,7 +2,7 @@
 
 Illustrated EPUB editions of the in-game codex from Kingdom Come: Deliverance and Kingdom Come: Deliverance II.
 
-Each book includes embedded article artwork and internal links between included codex entries. The Kingdom Come: Deliverance II books also include the cover image and story spoiler markers on the small number of entries that need them.
+Each book includes a cover image, embedded article artwork, and internal links between included codex entries. The Kingdom Come: Deliverance II books also include story spoiler markers on the small number of entries that need them.
 
 ## Kingdom Come: Deliverance II
 
